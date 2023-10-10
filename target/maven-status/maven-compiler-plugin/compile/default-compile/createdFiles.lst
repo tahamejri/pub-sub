@@ -1,0 +1,9 @@
+br\com\assessments\pubsub\core\Publisher.class
+br\com\assessments\pubsub\Events\Event2.class
+br\com\assessments\pubsub\core\DefaultPublisher.class
+br\com\assessments\pubsub\core\DefaultSubscriber.class
+br\com\assessments\pubsub\PubSubApplication.class
+br\com\assessments\pubsub\api\Publisher.class
+br\com\assessments\pubsub\Events\Event1.class
+br\com\assessments\pubsub\api\Rest\RestServices.class
+br\com\assessments\pubsub\api\Subscriber.class
